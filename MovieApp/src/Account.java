@@ -9,7 +9,4 @@ public class Account {
 		return userID;
 	}
 	
-	public void setUserID(String userID) {
-		this.userID = userID;
-	}
 }
